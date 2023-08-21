@@ -1,0 +1,13 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculation service",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node": "node src/index.js"
+  },
+  "author": "Yuliia",
+  "license": "ISC"
+}
